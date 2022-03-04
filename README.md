@@ -24,14 +24,8 @@ This project may contain trademarks or logos for projects, products, or services
 
 # Acknowledgments 
 
-Any Linux distribution, including CBL-Mariner, benefits from contributions by the open software community. We gratefully acknowledge all contributions made from the broader open source community, in particular:
+Quasar Argentina benefits from contributions by the open software community. We gratefully acknowledge all contributions made from the broader open source community, in particular:
 
-1) The [Photon OS Project](https://vmware.github.io/photon/) for SPEC files originating from the Photon distribution.   
+1) Microsoft SQL Server Management.   
 
-2) [The Fedora Project](https://start.fedoraproject.org/) for SPEC files, particularly with respect to QT, DNF and several of their dependencies. 
-
-3) [GNU](https://www.gnu.org/) and the [Free Software Foundation](https://www.fsf.org/)
-
-4) [Linux from Scratch](http://www.linuxfromscratch.org)
-
-5) [Openmamba](https://openmamba.org/en/) for SPEC files
+2) 
