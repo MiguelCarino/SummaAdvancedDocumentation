@@ -1,13 +1,15 @@
 # SummaAdvancedDocumentation
-CBL-Mariner is an internal
-- **Package Generation:** This produces the desired set of RPM packages from SPEC files and source files. 
-- **Image Generation:** This produces the desired image artifacts like ISOs or VHDs from a given set of packages. 
+SummaAdvanced is an Argentinian closed source ERP solution with a subisdiary in Mexico. Rendering services for ERP custom development, deployment and maintenance. https://www.quasarglobal.com/
+This git tries to tackle on documentation about its three main services.
+- **ERP custom development:** How to ask or configure your Summa Advanced instance for custom requirements you may need. 
+- **Erp deployment:** How to setup your Summa Advanced instance. 
+- **Erp maintenance:** How to give maintenance to your Summa Advanced instance.
+- **Erp troubleshooting:** Most common troubleshooting with your Summa Advanced instance.
 
-# Getting Started with CBL-Mariner: 
+# Getting Started with Summa Advanced: 
 
 ## Request a demo
-Instructions for building CBL-Mariner may be found here: [Toolkit Documentation](./toolkit/README.md).  
-
+You can request a demo at https://www.quasarglobal.com/
 ## Request a quote
 
 ## Installation
