@@ -1,19 +1,22 @@
 # SummaAdvancedDocumentation
 SummaAdvanced is an Argentinian closed source ERP solution with a subisdiary in Mexico. Rendering services for ERP custom development, deployment and maintenance. https://www.quasarglobal.com/
-This git tries to tackle on documentation about its three main services.
+This git tries to tackle on documentation about its four main services.
 - **ERP custom development:** How to ask or configure your Summa Advanced instance for custom requirements you may need. 
-- **Erp deployment:** How to setup your Summa Advanced instance. 
-- **Erp maintenance:** How to give maintenance to your Summa Advanced instance.
-- **Erp troubleshooting:** Most common troubleshooting with your Summa Advanced instance.
+- **ERP deployment:** How to setup your Summa Advanced instance. 
+- **ERP maintenance:** How to give maintenance to your Summa Advanced instance.
+- **ERP troubleshooting:** Most common troubleshooting with your Summa Advanced instance.
 
 # Getting Started with Summa Advanced: 
 
 ## Request a demo
 You can request a demo at https://www.quasarglobal.com/
-## Request a quote
-
 ## Installation
-## Installation
+## Setting up SQL
+## Setting up the web server
+## Setting up a Summa Advanced instance
+### Users
+### Business
+### Definitions
 
 # Trademarks
 
